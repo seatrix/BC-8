@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>BC-8/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>9</Column0><Column1>27</Column1><Column2>27</Column2><Column3>0</Column3></ColumnWidths>
+      </Workspace>
+    <Build><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build><Find-in-Files><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files><TerminalIO/><Debug-Log><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>959</ColumnWidth1></Debug-Log><Disassembly><MixedMode>1</MixedMode><CodeCovShow>1</CodeCovShow><InstrProfShow>1</InstrProfShow></Disassembly></Static>
+    <Windows>
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20263-14785</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>BC-8</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\OLED.h</Filename><XPos>0</XPos><YPos>62</YPos><SelStart>2789</SelStart><SelEnd>2789</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\RTC.c</Filename><XPos>0</XPos><YPos>239</YPos><SelStart>6714</SelStart><SelEnd>6714</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\OS.c</Filename><XPos>0</XPos><YPos>156</YPos><SelStart>5125</SelStart><SelEnd>5201</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\uart.c</Filename><XPos>0</XPos><YPos>296</YPos><SelStart>12448</SelStart><SelEnd>12448</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\BD.h</Filename><XPos>0</XPos><YPos>1</YPos><SelStart>70</SelStart><SelEnd>76</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ADC.c</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>1839</SelStart><SelEnd>1839</SelEnd></Tab><ActiveTab>5</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\common.h</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>990</SelStart><SelEnd>990</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\BD.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1323</SelStart><SelEnd>1323</SelEnd></Tab></Pane><Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\GPIO.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>152</SelStart><SelEnd>152</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\uart.h</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>591</SelStart><SelEnd>591</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\GPIO.h</Filename><XPos>0</XPos><YPos>7</YPos><SelStart>1236</SelStart><SelEnd>1236</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\OLED.c</Filename><XPos>47</XPos><YPos>17</YPos><SelStart>847</SelStart><SelEnd>847</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\OS.h</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>448</SelStart><SelEnd>448</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\RTC.h</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>773</SelStart><SelEnd>773</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\mainR.c</Filename><XPos>0</XPos><YPos>129</YPos><SelStart>5678</SelStart><SelEnd>5678</SelEnd></Tab><ActiveTab>6</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Utils.C</Filename><XPos>0</XPos><YPos>189</YPos><SelStart>5416</SelStart><SelEnd>5416</SelEnd></Tab></Pane><ActivePane>1</ActivePane><Sizes><Pane><X>343096</X><Y>1000000</Y></Pane><Pane><X>656903</X><Y>1000000</Y></Pane></Sizes><SplitMode>4</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-012e8840><key>iaridepm.enu1</key></Toolbar-012e8840></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>682</Bottom><Right>83</Right><x>-2</x><y>-2</y><xscreen>69</xscreen><yscreen>417</yscreen><sizeHorzCX>53906</sizeHorzCX><sizeHorzCY>572802</sizeHorzCY><sizeVertCX>66406</sizeVertCX><sizeVertCY>939560</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes/></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
